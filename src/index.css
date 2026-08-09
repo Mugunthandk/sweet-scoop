@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FDFBF7;
+    color: #4A3728;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  
+  h1, h2, h3, .font-serif {
+    font-family: 'Playfair Display', serif;
+  }
+}
+
+/* Custom scrollbars and transitions for Natural Tones */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F3EFE7;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8D0C3;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4A3728;
+}
+

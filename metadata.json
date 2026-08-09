@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Scoop",
+  "description": "Happiness in Every Scoop - Full-stack artisanal ice cream e-commerce platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
