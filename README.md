@@ -1,1015 +1,578 @@
-<div align="center">
-
+::: {align="center"}
 # 🍦 SWEET SCOOP
 
-### Artisanal Ice Cream • Crafted for Every Craving
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Discover+Your+Perfect+Scoop+%F0%9F%8D%A8;Build+Your+Own+Sweet+Experience+%F0%9F%8D%A6;Explore.+Customize.+Savor.+%E2%9C%A8;A+Modern+Ice+Cream+Shopping+Experience+%F0%9F%9B%92" />
-
-<br/>
-
-<a href="https://sweet-scoop-vava.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8D%A6%20LIVE%20STORE-SWEET%20SCOOP-F97316?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Project-E--Commerce-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/Design-Responsive-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-Integrated-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square&logo=vercel" />
-
-</div>
-
----
-
-# 🍨 About Sweet Scoop
-
-**Sweet Scoop** is a modern, interactive ice cream e-commerce platform designed to make online dessert shopping feel as enjoyable as eating ice cream.
-
-Instead of being just a traditional product catalog, Sweet Scoop combines:
-
-* 🍦 Product discovery
-* 🎁 Personalized combo building
-* 🤖 AI-powered recommendations
-* 💬 AI shopping assistance
-* 🛒 Smart shopping cart
-* ❤️ Wishlist
-* 💳 Online checkout
-* 💵 Cash on Delivery
-* 📦 Order management
-* 📊 Store management
-
-> **Discover. Customize. Savor.**
-
----
-
-# 🌟 The Experience
-
-Sweet Scoop is designed around the complete customer journey.
-
-```text
-                         🍦 SWEET SCOOP
-                               │
-                               ▼
-                         🏠 DISCOVER
-                               │
-                               ▼
-                         🔍 EXPLORE
-                               │
-                               ▼
-                       🍨 CHOOSE FLAVOR
-                               │
-                               ▼
-                       🎁 BUILD COMBO
-                               │
-                               ▼
-                       🤖 GET RECOMMENDED
-                               │
-                               ▼
-                          ❤️ SAVE
-                               │
-                               ▼
-                          🛒 CART
-                               │
-                               ▼
-                         💳 CHECKOUT
-                               │
-                               ▼
-                          📦 ORDER
-                               │
-                               ▼
-                         🍦 ENJOY
-```
-
----
-
-# ✨ Key Features
-
-## 🍦 Product Discovery
-
-Explore a collection of ice cream products through a modern shopping interface.
-
-### Features
-
-* Flavor browsing
-* Product categories
-* Product details
-* Pricing
-* Product images
-* Search
-* Filtering
-* Sorting
-* Featured products
-* New arrivals
-* Popular flavors
-
----
-
-# 🎨 Product Experience
-
-Every product is presented with the information needed to make a quick purchasing decision.
-
-```text
-┌───────────────────────────────┐
-│          🍦 PRODUCT           │
-├───────────────────────────────┤
-│                               │
-│       Product Image           │
-│                               │
-├───────────────────────────────┤
-│ Vanilla Dream                 │
-│ ⭐ 4.8                        │
-│                               │
-│ Creamy vanilla ice cream      │
-│                               │
-│ ₹249                          │
-│                               │
-│ [ Add to Cart ] ❤️            │
-└───────────────────────────────┘
-```
-
----
-
-# 🎁 Build Your Own Combo
-
-Sweet Scoop allows customers to create personalized combinations instead of purchasing only predefined products.
-
-```text
-Choose Base
-     ↓
-Choose Flavors
-     ↓
-Choose Quantity
-     ↓
-Add Toppings
-     ↓
-Choose Size
-     ↓
-Review Combo
-     ↓
-Add to Cart
-```
-
-### Combo Builder
-
-* Multiple flavors
-* Quantity selection
-* Custom combinations
-* Toppings
-* Size selection
-* Dynamic pricing
-* Instant cart integration
-
----
-
-# 🤖 AI-Powered Recommendations
-
-Sweet Scoop uses AI-assisted recommendations to help customers discover products based on their preferences.
-
-### Recommendation Signals
-
-```text
-Customer Preferences
-        +
-Browsing Activity
-        +
-Previous Purchases
-        +
-Favorite Flavors
-        +
-Cart Items
-        +
-Product Popularity
-        ↓
-┌──────────────────────┐
-│ AI Recommendation    │
-│      Engine          │
-└──────────┬───────────┘
-           ↓
- Personalized Products
-```
-
-### Example
-
-```text
-🍦 Based on your preferences
-
-You may also love:
-
-🍫 Belgian Chocolate
-🍓 Strawberry Bliss
-🥜 Nutty Caramel
-```
-
----
-
-# 💬 AI Shopping Assistant
-
-Customers can interact with an AI-powered shopping assistant.
-
-### Example
-
-```text
-Customer:
-I want something chocolatey but not too sweet.
-
-AI Assistant:
-Try our Belgian Dark Chocolate.
-
-Why?
-
-✓ Rich cocoa flavor
-✓ Lower sweetness profile
-✓ Creamy texture
-✓ Highly rated by chocolate lovers
-```
-
-### Assistant Capabilities
-
-* Product discovery
-* Flavor suggestions
-* Combo recommendations
-* Product comparisons
-* Shopping guidance
-* Preference-based suggestions
-
----
-
-# 🔍 Smart Search
-
-The platform provides a fast product discovery experience.
-
-### Search By
-
-* Product name
-* Flavor
-* Category
-* Ingredient
-* Preference
-
-Example:
-
-```text
-Search:
-"Chocolate"
-
-        ↓
-
-🍫 Belgian Chocolate
-🍫 Double Chocolate
-🍫 Choco Brownie
-🍫 Dark Cocoa
-```
-
----
-
-# 🗂️ Categories
-
-Sweet Scoop can organize products into categories such as:
-
-* 🍫 Chocolate
-* 🍓 Strawberry
-* 🍦 Vanilla
-* 🥭 Mango
-* 🥜 Nuts
-* 🍪 Cookies
-* ☕ Coffee
-* 🍯 Caramel
-* 🍨 Premium
-* 🎁 Combos
-
----
-
-# ❤️ Wishlist
-
-Customers can save products for later.
-
-### Wishlist Features
-
-* Add product to wishlist
-* Remove product
-* View saved products
-* Move product to cart
-* Persistent wishlist state
-
-```text
-Product
+### Artisanal Ice Cream · Crafted for Every Craving
+
+**Discover your perfect scoop. Customize your cravings. Make every
+moment sweeter.**
+
+`<a href="https://sweet-scoop-vava.vercel.app/">`{=html}
+`<img src="https://img.shields.io/badge/🍦%20VISIT%20LIVE%20STORE-Sweet%20Scoop-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Sweet Scoop live store" />`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}`<br/>`{=html}
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type_Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)
+:::📚 Table of Contents
+- Overview
+- Product Vision
+- Feature Overview
+- Customer Experience
+- AI Recommendation Platform
+- Proposed Full-Stack
+  Architecture
+- Technology Stack
+- Project Structure
+- Getting Started
+- Environment Configuration
+- Proposed API Design
+- Proposed Data Model
+- Security and Reliability
+- Testing Strategy
+- Deployment
+- Roadmap
+- Contributing
+- Developer
+- License
+🍨 Overview
+Sweet Scoop is a modern ice cream e-commerce experience designed to
+make discovering and ordering desserts enjoyable, visual, and personal.
+The platform brings together flavor discovery, product browsing, custom
+combo creation, a shopping cart, wishlist functionality, checkout, and
+order management in a playful storefront.
+The long-term vision is to evolve Sweet Scoop into a full-stack dessert
+commerce platform with catalog-backed AI recommendations, personalized
+shopping, store administration, inventory management, and sales
+insights.
+Discover. Customize. Savor.
+
+Live Store: https://sweet-scoop-vava.vercel.app/
+Project principles
+- Flavor-first discovery: Help customers find products by flavor,
+  category, ingredient, and craving.
+- Personalization: Make it easy to create combinations that match
+  individual preferences.
+- Convenient commerce: Keep cart, checkout, and order workflows
+  clear.
+- Trustworthy recommendations: Base recommendations on verified
+  catalog data.
+- Responsive design: Deliver a consistent experience across
+  desktop, tablet, and mobile.
+- Honest product status: Clearly distinguish implemented
+  functionality from planned capabilities.
+🎯 Product Vision
+Sweet Scoop aims to move beyond a basic product catalog and create a
+personalized dessert-shopping journey.
+Discover
    ↓
-❤️ Add to Wishlist
+Explore flavors
    ↓
-Wishlist
+Compare products
    ↓
-🛒 Move to Cart
-```
-
----
-
-# 🛒 Smart Shopping Cart
-
-The cart provides a complete order summary.
-
-```text
-┌──────────────────────────────────┐
-│           🛒 YOUR CART           │
-├──────────────────────────────────┤
-│ 🍦 Vanilla Dream      × 2        │
-│ 🍫 Chocolate Bliss    × 1        │
-│ 🎁 Custom Combo       × 1        │
-├──────────────────────────────────┤
-│ Subtotal              ₹XXX       │
-│ Delivery              ₹XX        │
-│ Discount              -₹XX       │
-├──────────────────────────────────┤
-│ TOTAL                 ₹XXX       │
-│                                  │
-│       [ CHECKOUT ]               │
-└──────────────────────────────────┘
-```
-
-### Cart Capabilities
-
-* Quantity controls
-* Remove products
-* Price calculation
-* Subtotal
-* Discounts
-* Delivery calculation
-* Order total
-* Checkout integration
-
----
-
-# 💳 Checkout Experience
-
-Sweet Scoop provides a streamlined checkout process.
-
-```text
-Cart
- ↓
-Customer Details
- ↓
-Delivery Address
- ↓
-Order Summary
- ↓
-Payment Method
- ↓
-Order Confirmation
-```
-
-### Payment Options
-
-* 💳 Online Payment
-* 💵 Cash on Delivery
-
----
-
-# 📦 Order Management
-
-Customers can track their orders through the platform.
-
-### Order Lifecycle
-
-```text
-Order Placed
-     ↓
-Order Confirmed
-     ↓
+Build a custom combo
+   ↓
+Get recommendations
+   ↓
+Save favorites
+   ↓
+Add to cart
+   ↓
+Checkout
+   ↓
+Track the order
+   ↓
+Enjoy the perfect scoop 🍦
+✨ Feature Overview
+The source project README describes the following customer and store
+capabilities. Actual behavior should be confirmed against the current
+implementation before representing each item as production-ready.
+🍦 Product Discovery
+- Browse ice cream products and flavor categories.
+- View product images, descriptions, and pricing.
+- Search and filter products.
+- Sort products and explore featured selections.
+- Discover new arrivals and popular flavors.
+- Explore categories such as chocolate, strawberry, vanilla, mango,
+  nuts, cookies, coffee, caramel, premium flavors, and combos.
+🎁 Custom Combo Builder
+The intended combo-building experience lets customers assemble a
+personalized dessert selection.
+Choose a base
+    ↓
+Select flavors
+    ↓
+Choose quantity
+    ↓
+Add toppings
+    ↓
+Choose size
+    ↓
+Review price
+    ↓
+Add combo to cart
+Potential combo options include multiple flavors, topping selection,
+size selection, quantity controls, and dynamic pricing. Pricing must be
+calculated or validated by a trusted backend before checkout in a
+full-stack deployment.
+❤️ Wishlist
+- Save favorite products.
+- Remove saved products.
+- Review saved selections.
+- Move products to the shopping cart.
+- Persist wishlist state where supported.
+🛒 Shopping Cart
+- Add and remove products.
+- Update quantities.
+- Review item prices and subtotals.
+- Display eligible discounts and delivery charges.
+- Calculate an order total.
+- Continue to checkout.
+The server should recalculate prices, discounts, inventory, and totals
+instead of trusting values supplied by the browser.
+💳 Checkout
+The intended checkout flow is:
+1. Review cart items.
+2. Enter customer details.
+3. Provide a delivery address.
+4. Review the order summary.
+5. Select an available payment method.
+6. Submit the order and view confirmation.
+The original project description mentions online payment and Cash on
+Delivery. Real payment processing requires a configured provider,
+server-side verification, and appropriate testing.
+📦 Order Management
+Planned order lifecycle:
+Order placed
+    ↓
+Order confirmed
+    ↓
 Preparing
-     ↓
-Out for Delivery
-     ↓
+    ↓
+Out for delivery
+    ↓
 Delivered
+Order records can include an order ID, products, quantities, total,
+delivery information, payment method, current status, and order date.
+👤 Customer Account
+The proposed account experience includes profile management, saved
+addresses, order history, wishlist, cart, preferences, and account
+settings.
+📊 Store Management
+A future administrative dashboard can support:
+- Product and category management.
+- Inventory and pricing updates.
+- Custom combo management.
+- Order processing.
+- Customer support workflows.
+- Sales analytics and best-selling product reports.
+🤖 AI Recommendation Platform
+Sweet Scoop's planned AI layer is intended to help customers discover
+flavors and combinations based on their preferences.
+1. AI Shopping Assistant
+Example customer request:
+"I want something chocolatey but not too sweet."
+
+A catalog-grounded assistant could retrieve matching products and
+explain the differences in flavor profile, ingredients, and customer
+ratings when that information is available in verified product records.
+2. Personalized Recommendations
+Potential recommendation signals include:
+- Favorite flavors.
+- Product categories.
+- Customer-selected preferences.
+- Current cart items.
+- Previous purchases, with appropriate consent.
+- Product popularity and verified ratings.
+3. Smart Combo Suggestions
+The assistant could propose combinations based on selected flavors,
+size, toppings, budget, and catalog rules.
+Recommended AI workflow
+Customer preferences
+        +
+Verified product catalog
+        +
+Available inventory
+        ↓
+Recommendation service
+        ↓
+Validate product IDs and availability
+        ↓
+Return matching products
+        ↓
+Customer reviews and selects
+AI implementation principles
+- Keep private AI credentials on the server.
+- Ground product suggestions in the actual catalog.
+- Validate generated product IDs against the database.
+- Do not invent prices, ingredients, stock, or ratings.
+- Treat allergy and dietary information carefully and rely on verified
+  product labeling.
+- Provide ordinary search as a fallback if the AI service is
+  unavailable.
+- Collect and use customer behavior data only with appropriate
+  transparency and consent.
+Status: The uploaded README describes AI integration and
+capabilities, but this document does not independently verify the
+implementation or model provider. Confirm the current code before
+claiming production-ready AI functionality.
+🏗️ Proposed Full-Stack Architecture
+The current live site is hosted on Vercel. The following architecture is
+a proposed extension for a complete commerce backend, not a claim that
+these services are already deployed.
+```mermaid
+flowchart TD
+    U[Customer / Store Admin] --> FE[React + TypeScript Frontend]
+    FE --> API[Backend REST API]
+
+    API --> AUTH[Authentication and Authorization]
+    API --> CAT[Product Catalog]
+    API --> CART[Cart and Wishlist]
+    API --> ORD[Order Service]
+    API --> REC[Recommendation Service]
+    API --> ADMIN[Admin Service]
+
+    AUTH --> DB[(Database)]
+    CAT --> DB
+    CART --> DB
+    ORD --> DB
+    ADMIN --> DB
+
+    REC --> CATALOG[Verified Product Catalog]
+    REC --> AI[AI Model Provider]
+
+    CAT --> IMG[Image Storage]
+    ORD --> PAY[Payment Provider]
+    ORD --> MSG[Email / Order Notifications]
 ```
-
-### Order Information
-
-* Order ID
-* Products
-* Quantity
-* Total price
-* Delivery details
-* Payment method
-* Order status
-* Order date
-
----
-
-# 👤 Customer Account
-
-Users can manage their shopping profile.
-
-### Account Features
-
-* Profile management
-* Saved addresses
-* Order history
-* Wishlist
-* Cart
-* Preferences
-* Account settings
-
----
-
-# 📊 Store Management
-
-Sweet Scoop can provide an administrative interface for managing the store.
-
-### Admin Capabilities
-
-* Product management
-* Category management
-* Inventory management
-* Order management
-* Customer management
-* Pricing management
-* Combo management
-* Sales analytics
-
----
-
-# 📈 Sales Analytics
-
-Store administrators can monitor important business metrics.
-
-```text
-╔════════════════════════════════════╗
-║         STORE ANALYTICS            ║
-╠════════════════════════════════════╣
-║ Total Orders          1,248        ║
-║ Revenue              ₹3.42L        ║
-║ Products Sold         2,840        ║
-║ Active Customers        864        ║
-║ Avg. Order Value       ₹274        ║
-║ Conversion Rate        8.6%        ║
-╚════════════════════════════════════╝
-```
-
-### Analytics
-
-* Revenue
-* Orders
-* Products sold
-* Customer growth
-* Best-selling products
-* Average order value
-* Conversion rate
-* Sales trends
-
----
-
-# 📱 Responsive Design
-
-Sweet Scoop is designed to work across different screen sizes.
-
-```text
-        💻 Desktop
-             │
-             ▼
-        📱 Tablet
-             │
-             ▼
-        📱 Mobile
-```
-
-### Design Principles
-
-* Responsive layouts
-* Mobile-first components
-* Touch-friendly interactions
-* Adaptive navigation
-* Responsive product grids
-* Consistent spacing
-* Modern typography
-* Smooth animations
-
----
-
-# 🎨 UI / UX Design
-
-Sweet Scoop focuses on creating a visually appealing dessert-shopping experience.
-
-### Design Direction
-
-```text
-🍦 Playful
-   +
-🎨 Colorful
-   +
-✨ Modern
-   +
-🧁 Premium
-   +
-⚡ Interactive
-```
-
-### UX Principles
-
-* Minimal friction
-* Clear product hierarchy
-* Fast discovery
-* Simple checkout
-* Strong visual identity
-* Intuitive navigation
-* Smooth micro-interactions
-
----
-
-# 🏗️ Application Architecture
-
-```text
-                    ┌───────────────────────┐
-                    │     Sweet Scoop UI    │
-                    │   React / Frontend    │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │      API Layer        │
-                    └───────────┬───────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              ▼                 ▼                 ▼
-       ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-       │ Product     │   │ Order       │   │ AI          │
-       │ Service     │   │ Service     │   │ Service     │
-       └──────┬──────┘   └──────┬──────┘   └──────┬──────┘
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                ▼
-                    ┌───────────────────────┐
-                    │      Database         │
-                    └───────────────────────┘
-```
-
----
-
-# 🔄 Complete Shopping Workflow
-
-```text
-                    CUSTOMER
-                       │
-                       ▼
-                Browse Products
-                       │
-                       ▼
-                Search / Filter
-                       │
-                       ▼
-                Product Details
-                       │
-                       ▼
-                AI Recommendation
-                       │
-                       ▼
-                  Add to Cart
-                       │
-                       ▼
-                Build Combo
-                       │
-                       ▼
-                   Wishlist
-                       │
-                       ▼
-                    Checkout
-                       │
-                       ▼
-                   Payment
-                       │
-                       ▼
-                Order Created
-                       │
-                       ▼
-                Order Tracking
-                       │
-                       ▼
-                   Delivered
-                       │
-                       ▼
-                    🍦 Enjoy
-```
-
----
-
-# 🧠 AI Architecture
-
-```text
-Customer Data
-      +
-Product Catalog
-      +
-User Preferences
-      +
-Shopping History
-      +
-Browsing Behavior
-      ↓
-┌─────────────────────────┐
-│    AI Recommendation    │
-│         Engine          │
-└────────────┬────────────┘
-             ↓
-    Product Recommendations
-             +
-       Combo Suggestions
-             +
-      Shopping Assistance
-```
-
----
-
-# 🗃️ Data Model
-
-```text
-User
-│
-├── Profile
-├── Addresses
-├── Wishlist
-├── Cart
-├── Orders
-└── Preferences
-
-Product
-│
-├── Name
-├── Description
-├── Category
-├── Flavor
-├── Price
-├── Images
-├── Rating
-└── Inventory
-
-Order
-│
-├── Customer
-├── Products
-├── Quantity
-├── Address
-├── Payment
-├── Total
-└── Status
-
-Combo
-│
-├── Base
-├── Flavors
-├── Toppings
-├── Size
-├── Quantity
-└── Price
-```
-
----
-
-# 🛠️ Technology Stack
-
-## Frontend
-
-```text
-React
-TypeScript
-Vite
-Tailwind CSS
-JavaScript
-HTML5
-CSS3
-```
-
-## UI / UX
-
-```text
-Responsive Design
-Modern Components
-Animations
-Interactive Cards
-Product Grids
-Mobile Navigation
-```
-
-## AI
-
-```text
-AI Recommendations
-AI Shopping Assistant
-Preference Analysis
-Product Matching
-```
-
-## Backend
-
-```text
-REST API
-Authentication
-Product Management
-Order Management
-Cart Management
-User Management
-```
-
-## Database
-
-```text
-Product Data
-User Data
-Order Data
-Wishlist Data
-Cart Data
-Inventory Data
-```
-
-## Deployment
-
-```text
-Vercel
-GitHub
-CI/CD
-```
-
----
-
-# 📁 Recommended Repository Structure
-
-```text
+Architecture principles
+- Keep presentation separate from business logic.
+- Centralize sensitive operations in backend services.
+- Validate user input at the API boundary.
+- Enforce customer and administrator permissions on the server.
+- Recheck product availability and prices during checkout.
+- Make payment and order processing idempotent where appropriate.
+- Keep external API keys and database credentials out of client code.
+🛠️ Technology Stack
+Frontend foundation
+  Technology       Purpose
+  React            Component-based interface
+  TypeScript       Type safety and maintainability
+  Vite             Development server and build tooling
+  Tailwind CSS     Responsive styling
+  HTML5 and CSS3   Web structure and presentation
+  Vercel           Frontend deployment
+Proposed full-stack extensions
+  Technology                             Purpose
+  Node.js                                Backend runtime
+  Express.js                             REST API and business logic
+  PostgreSQL or MongoDB                  Persistent application data
+  Prisma, if using PostgreSQL            Database access and migrations
+  Secure sessions or JWT                 Authentication
+  Gemini API or another model provider   AI shopping assistant
+  Cloudinary or equivalent               Product image storage
+  Razorpay                               Payment integration
+  Resend or equivalent                   Transactional email
+  Vitest                                 Unit and component tests
+  Playwright                             End-to-end tests
+Choose one primary database based on the actual data model. The
+technologies in the proposed section are options, not installed
+dependencies confirmed by the uploaded README.
+📁 Recommended Project Structure
+Adapt this structure to the existing repository instead of replacing
+working files unnecessarily.
+Frontend
 sweet-scoop/
-│
 ├── public/
 │   ├── images/
 │   ├── icons/
 │   └── assets/
-│
 ├── src/
 │   ├── components/
-│   │   ├── Navbar/
-│   │   ├── ProductCard/
-│   │   ├── ProductGrid/
-│   │   ├── Cart/
-│   │   ├── Wishlist/
-│   │   ├── ComboBuilder/
-│   │   └── AIChat/
-│   │
-│   ├── pages/
-│   │   ├── Home/
-│   │   ├── Products/
-│   │   ├── ProductDetails/
-│   │   ├── Cart/
-│   │   ├── Checkout/
-│   │   ├── Wishlist/
-│   │   └── Orders/
-│   │
-│   ├── services/
-│   │   ├── api/
+│   │   ├── layout/
 │   │   ├── products/
-│   │   ├── orders/
-│   │   └── recommendations/
-│   │
+│   │   ├── cart/
+│   │   ├── wishlist/
+│   │   ├── combo-builder/
+│   │   └── ai-chat/
+│   ├── pages/
+│   ├── services/
 │   ├── hooks/
-│   ├── utils/
+│   ├── context/
 │   ├── data/
 │   ├── types/
-│   └── App.tsx
-│
+│   ├── utils/
+│   ├── styles/
+│   ├── App.tsx
+│   └── main.tsx
+├── tests/
 ├── .env.example
 ├── package.json
-├── README.md
-└── LICENSE
-```
-
----
-
-# 🔐 Security
-
-The application should follow secure e-commerce practices.
-
-### Security Features
-
-* Authentication
-* Protected routes
-* Secure user sessions
-* Input validation
-* Secure checkout
-* Environment variables
-* API protection
-* Order authorization
-* Admin authorization
-* Secure payment handling
-
----
-
-# ⚡ Performance
-
-Sweet Scoop is designed with performance in mind.
-
-### Optimization Strategy
-
-* Responsive images
-* Lazy loading
-* Component optimization
-* API caching
-* Efficient state management
-* Optimized product rendering
-* CDN-based deployment
-* Production builds
-
----
-
-# 🌍 Customer Experience
-
-The platform focuses on making every interaction feel simple and enjoyable.
-
-```text
-DISCOVER
-   ↓
-EXPLORE
-   ↓
-CUSTOMIZE
-   ↓
-PERSONALIZE
-   ↓
-PURCHASE
-   ↓
-TRACK
-   ↓
-ENJOY
-```
-
----
-
-# 🚀 Future Roadmap
-
-## Phase 1 · Store Foundation
-
-* [x] Product catalog
-* [x] Product discovery
-* [x] Responsive UI
-* [x] Shopping cart
-* [x] Wishlist
-* [x] Checkout
-* [x] Deployment
-
-## Phase 2 · Personalization
-
-* [ ] Advanced AI recommendations
-* [ ] Personalized home page
-* [ ] Flavor preference profiling
-* [ ] Smart combo generation
-* [ ] Personalized offers
-
-## Phase 3 · Commerce Intelligence
-
-* [ ] Advanced analytics
-* [ ] Inventory prediction
-* [ ] Sales forecasting
-* [ ] Customer segmentation
-* [ ] Product demand prediction
-
-## Phase 4 · Next-Generation Experience
-
-* [ ] AI shopping copilot
-* [ ] Voice-based shopping
-* [ ] Image-based flavor discovery
-* [ ] AR product visualization
-* [ ] Smart loyalty system
-* [ ] Predictive customer recommendations
-
----
-
-# 🌟 What Makes Sweet Scoop Different?
-
-Traditional ice cream stores provide:
-
-```text
-Products
-   ↓
-Cart
-   ↓
-Checkout
-```
-
-Sweet Scoop aims to provide:
-
-```text
-Product Discovery
-       ↓
-Personalization
-       ↓
-AI Recommendations
-       ↓
-Custom Combo Creation
-       ↓
-Smart Shopping
-       ↓
-Seamless Checkout
-       ↓
-Order Experience
-```
-
-It combines **e-commerce + personalization + AI + interactive UX** into one dessert-shopping experience.
-
----
-
-# 📊 Business Value
-
-Sweet Scoop can help improve:
-
-* 🛒 Shopping convenience
-* 🎯 Product discovery
-* ❤️ Customer engagement
-* 📈 Conversion opportunities
-* 🍨 Average order value
-* 🎁 Combo sales
-* 🔄 Customer retention
-* 📊 Store intelligence
-
----
-
-# 🎯 Vision
-
-Sweet Scoop aims to turn online ice cream shopping from a simple transaction into a **personalized digital dessert experience**.
-
-Instead of asking:
-
-> **"Which ice cream should I buy?"**
-
-Sweet Scoop aims to help answer:
-
-> **"What flavor matches my craving, what combo should I build, and what would I probably love next?"**
-
----
-
-# 📌 Project Status
-
-**🟢 Live**
-
-The Sweet Scoop storefront is deployed and available online.
-
-### 🍦 Live Store
-
-<a href="https://sweet-scoop-vava.vercel.app/">
-
-**👉 Visit Sweet Scoop**
-
-</a>
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-```text
-Fork
- ↓
-Create Branch
- ↓
-Make Changes
- ↓
-Test
- ↓
-Commit
- ↓
-Push
- ↓
-Pull Request
-```
-
----
-
-# ⭐ Support
-
-If you like the project:
-
-⭐ Star the repository
-🍴 Fork the project
-🐛 Report issues
-💡 Suggest features
-🤝 Contribute
-
----
-
-# 📄 License
-
-This project is developed for **educational, portfolio, experimentation, and innovation purposes**.
-
----
-
-<div align="center">
-
+├── vite.config.ts
+└── README.md
+Proposed backend
+server/
+├── src/
+│   ├── config/
+│   ├── middleware/
+│   ├── modules/
+│   │   ├── auth/
+│   │   ├── products/
+│   │   ├── categories/
+│   │   ├── cart/
+│   │   ├── wishlist/
+│   │   ├── combos/
+│   │   ├── orders/
+│   │   ├── payments/
+│   │   ├── recommendations/
+│   │   └── analytics/
+│   ├── services/
+│   ├── validators/
+│   ├── utils/
+│   ├── app.ts
+│   └── server.ts
+├── tests/
+├── package.json
+└── .env.example
+⚙️ Getting Started
+Prerequisites
+- Node.js compatible with the project's Vite version.
+- npm.
+- Git.
+- A code editor such as Visual Studio Code.
+1. Clone the repository
+git clone <YOUR_GITHUB_REPOSITORY_URL>
+cd sweet-scoop
+Replace the placeholder with the actual repository URL. The uploaded
+README provides the live deployment URL but does not establish the
+repository's canonical URL.
+2. Install dependencies
+npm install
+3. Run the development server
+npm run dev
+Open the local URL printed by Vite, commonly http://localhost:5173.
+4. Build for production
+npm run build
+5. Preview the production build
+npm run preview
+Confirm the available scripts in package.json before using these
+commands.
+🔐 Environment Configuration
+A frontend-only deployment may not need server-side secrets. For the
+proposed backend, create a server-side .env file and use placeholders
+in .env.example.
+NODE_ENV=development
+PORT=5000
+
+DATABASE_URL=your_database_connection_string
+SESSION_SECRET=your_long_random_secret
+
+AI_API_KEY=your_server_side_ai_api_key
+
+IMAGE_STORAGE_NAME=your_storage_name
+IMAGE_STORAGE_KEY=your_storage_key
+IMAGE_STORAGE_SECRET=your_storage_secret
+
+PAYMENT_KEY_ID=your_test_key_id
+PAYMENT_KEY_SECRET=your_test_key_secret
+
+CLIENT_URL=http://localhost:5173
+These variable names are illustrative. Match them to the services and
+configuration implemented in the code.
+Security checklist
+- Never commit .env files or real secrets.
+- Keep private API keys on the backend.
+- Do not expose payment secrets in frontend variables.
+- Use separate development and production credentials.
+- Configure environment variables through the hosting provider.
+- Rotate any credential that has been accidentally committed.
+🔌 Proposed API Design
+The following endpoints are examples for the planned backend.
+  Method                  Endpoint                    Purpose
+  GET                     /api/products             List products with
+                                                      search and filters
+  GET                     /api/products/:id         Retrieve product
+                                                      details
+  GET                     /api/categories           List categories
+  GET                     /api/cart                 Retrieve the current
+                                                      cart
+  POST                    /api/cart/items           Add an item to the cart
+  GET                     /api/wishlist             Retrieve saved products
+  POST                    /api/combos/quote         Validate a combo and
+                                                      calculate its price
+  POST                    /api/orders               Create an order
+  GET                     /api/orders               Retrieve the current
+                                                      customer's orders
+  POST                    /api/ai/recommendations   Request
+                                                      catalog-grounded
+                                                      suggestions
+  POST                    /api/payments/verify      Verify payment status
+  GET                     /api/admin/analytics      Retrieve authorized
+                                                  store analytics
+These endpoints should only be documented as available after they are
+implemented and tested. Protected endpoints must enforce authorization
+on the server.
+🗄️ Proposed Data Model
+  Entity             Example fields
+  Users              id, name, email, role
+  Products           id, name, description, category, price, status
+  Product Variants   product_id, size, flavor, price
+  Ingredients        product_id, ingredient list, allergen declarations
+  Inventory          product_id, available quantity, updated_at
+  Carts              user_id, items, quantities
+  Wishlists          user_id, product_ids
+  Combos             name, allowed flavors, sizes, pricing rules
+  Orders             user_id, status, total, delivery details
+  Order Items        order_id, product_id, quantity, price snapshot
+  Payments           order_id, provider reference, status
+  Coupons            code, eligibility, discount, expiry
+  Reviews            user_id, product_id, rating, comment
+Data integrity
+- Store prices using a consistent currency representation.
+- Recalculate prices and discounts on the server.
+- Validate quantities and inventory before order confirmation.
+- Preserve the price snapshot for each order item.
+- Verify payment events before marking an order as paid.
+- Protect customer records and prevent access to another user's
+  orders.
+🛡️ Security and Reliability
+A production-oriented commerce implementation should include:
+- Input validation and safe error handling.
+- Secure authentication and password hashing.
+- Server-side role-based access control.
+- Rate limiting on authentication and sensitive endpoints.
+- Restricted CORS configuration.
+- Server-side inventory and price validation.
+- Verified payment webhooks.
+- Idempotent order and payment processing.
+- Safe image upload validation.
+- Appropriate logging without exposing secrets.
+- Privacy-conscious handling of customer data.
+🧪 Testing Strategy
+Recommended quality checks include:
+Build
+npm run build
+Unit tests
+npm run test
+End-to-end tests
+npx playwright test
+The test commands require the corresponding dependencies and scripts to
+be configured.
+Important scenarios
+- Product search, filtering, and sorting.
+- Combo configuration and price calculation.
+- Cart quantity updates and totals.
+- Coupon eligibility and expiration.
+- Inventory changes during checkout.
+- Payment success, failure, and duplicate events.
+- Order authorization and status transitions.
+- AI recommendations referencing real products.
+- Mobile responsiveness and accessibility.
+🚀 Deployment
+Frontend on Vercel
+1. Push the project to GitHub.
+2. Import the repository into Vercel.
+3. Configure the project root directory.
+4. Set the build command to npm run build.
+5. Set the output directory to dist for a standard Vite build.
+6. Configure any required public environment variables.
+7. Deploy and test the production site.
+Live Store: https://sweet-scoop-vava.vercel.app/
+Backend on Render or an equivalent host
+When the backend is implemented:
+1. Create a backend service.
+2. Configure build and start commands.
+3. Add server-side environment variables.
+4. Configure database connectivity.
+5. Restrict CORS to trusted origins.
+6. Test authentication, orders, and payment verification.
+7. Configure monitoring, backups, and error reporting.
+🗺️ Development Roadmap
+Phase 1: Storefront
+- [x] Live storefront deployment.
+- [x] Product discovery foundation.
+- [x] Responsive design direction.
+- [ ] Verify cart and wishlist persistence.
+- [ ] Complete product detail and filtering workflows.
+The checked items reflect the source README's description and deployment
+claim, not an independent code audit.
+Phase 2: Commerce Backend
+- [ ] REST API and database.
+- [ ] Customer authentication.
+- [ ] Persistent cart and wishlist.
+- [ ] Server-validated combo pricing.
+- [ ] Inventory management.
+- [ ] Order creation and status management.
+Phase 3: Payments and Operations
+- [ ] Payment provider integration.
+- [ ] Verified payment webhooks.
+- [ ] Order notifications.
+- [ ] Admin product and order management.
+- [ ] Revenue and product analytics.
+Phase 4: AI and Personalization
+- [ ] Catalog-grounded AI shopping assistant.
+- [ ] Preference-based recommendations.
+- [ ] Smart combo suggestions.
+- [ ] Personalized product collections.
+- [ ] Recommendation quality evaluation.
+Phase 5: Production Readiness
+- [ ] Automated tests.
+- [ ] Security review.
+- [ ] Accessibility audit.
+- [ ] Performance optimization.
+- [ ] Monitoring and recovery procedures.
+Only mark features complete once their implementation and behavior have
+been verified.
+📈 Business Value
+If implemented and measured using real store data, Sweet Scoop could
+help a business understand:
+- Most popular flavors.
+- Best-selling products and combos.
+- Average order value.
+- Repeat purchase patterns.
+- Inventory movement.
+- Customer engagement.
+- Coupon performance.
+- Product demand trends.
+Do not present sample analytics or illustrative figures as actual
+business results.
+🤝 Contributing
+Contributions, bug reports, and feature suggestions are welcome.
+1. Fork the repository.
+2. Create a feature branch:
+   git checkout -b feature/your-feature
+3. Implement and test your changes.
+4. Commit your work:
+   git commit -m "feat: describe your change"
+5. Push the branch:
+   git push origin feature/your-feature
+6. Open a pull request describing your changes.
+👨‍💻 Developer
+Mugunthan DK
+Full Stack Developer | AI/ML Enthusiast
+B.Tech Information Technology, VSB Engineering College
+- Live Project: https://sweet-scoop-vava.vercel.app/
+- GitHub: https://github.com/Mugunthandk
+- LinkedIn: https://www.linkedin.com/in/mugunthandk/
+- Portfolio: https://mugunthandk-portfolio-vvuy.vercel.app/
+Interested in building modern web applications, AI-powered products, and
+practical software solutions.
+📄 License
+The source README does not identify a specific license. Add a LICENSE
+file with the intended terms before describing the project as open
+source.
+::: {align="center"}
 # 🍦 SWEET SCOOP
 
-### Discover • Customize • Savor
+### Discover · Customize · Savor
 
 **Every craving deserves a perfect scoop. 🍨**
 
-<br/>
+[Visit the Live Store](https://sweet-scoop-vava.vercel.app/)
 
-<a href="https://sweet-scoop-vava.vercel.app/">
-
-<img src="https://img.shields.io/badge/%F0%9F%8D%A6%20EXPLORE%20SWEET%20SCOOP-F97316?style=for-the-badge" />
-
-</a>
-
-</div>
+Built with ❤️ by **Mugunthan DK**
+:::
